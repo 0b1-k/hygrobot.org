@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>HyGroBot</title><link>http://hygrobot.org:80/blog-posts</link><description>News from HyGroBot</description><item><title>Reset</title><link>http://hygrobot.org:80/blog-posts/reset</link><description>The HyGrowBot project in its current form is going away. No worries though: it will soon be back with a fresh new look, products, services, grow journals, detailed guides and most importantly, a focus on medical cannabis applications.
+
+&lt;p&gt;
+Cheers,
+-The HyGroBot team.
+&lt;/p&gt;</description><pubDate>Tue, 18 Feb 2014 21:17:11 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/blog-posts/reset</guid></item><item><title>HyGrowBot drawing and update</title><link>http://hygrobot.org:80/blog-posts/hygrowbot-drawing-and-update</link><description>It's December and it's high time for a project update.
+
+We'd have loved to draw a winner on December 21st as we had planned, but we want HyGrowBot to be fully road-tested before letting it loose in your gardens and for that, we need a little more time. So, we're postponing the drawing for the time being.
+
+Having said this, we've made great progress on multiple fronts since Hempfest:
+
+ - We've been testing HyGrowBot at scale with results beyond our own expectations :)
+   
+ - We have been including much of the feedback that we received during Hempfest into HyGrowBot, such as CO2 level monitoring and injection, as well as growing in soil and controlling many zones from one system.
+   
+ - Most importantly, when we go live in early 2014, we will be discussing and giving advice on growing all kinds of crops -- edible and medicinal.
+
+We're very excited about what we've achieved so far and we can't wait to share it with you!
+
+We believe in doing things right and we hope that you'll agree that it was worth the wait...
+
+Cheers,
+-The HyGrowBot Team</description><pubDate>Tue, 24 Dec 2013 05:35:32 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/blog-posts/hygrowbot-drawing-and-update</guid></item><item><title>Project documentation on GitHub</title><link>http://hygrobot.org:80/project-doc</link><description>Well, it took long enough but the documentation for the HyGrowBot v2 prototype that we showed at Hempfest last month is finally complete, along with a great deal of code-scrubbing. Be sure to head over to the [HyGrowBot repository on GitHub][1] to see what the fuss is all about. Be warned, this is geeky stuff for the time being, but we're working hard on packaging the HyGrowBot hardware and software so that it is accessible to anyone. No 'geek creds' will be required, we promise :)
+
+We'll continue posting code, updates and hopefully video tutorials soon as we make progress through the Fall.
+
+Thank you,
+
+-The HyGrowBot Team
+
+
+  [1]: https://github.com/nwazet/hygrowbot</description><pubDate>Thu, 26 Sep 2013 06:50:00 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/project-doc</guid></item><item><title>178</title><link>http://hygrobot.org:80/blog-posts/178</link><description>We counted, re-counted and re-re-counted just to be sure. Well, 178 participants entered to win a HyGrowBot system during HempFest 2013 :)
+
+We'll have the drawing on December 21st as planned.
+
+Good luck to everyone!
+
+Cheers,
+-The HyGrowBot team
+</description><pubDate>Tue, 10 Sep 2013 00:20:09 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/blog-posts/178</guid></item><item><title>HyGrowBot v1 being dismantled... to become part of HyGrowBot v3</title><link>http://hygrobot.org:80/blog-posts/hygrowbot-v1-being-dismantled-to-become-part-of-hygrowbot-v3</link><description>Today, the [HyGrowBot v1][1] prototype was taken offline after 9 months of testing and experimenting.
+
+We learned a huge amount about bootstrapping a successful small scale hydroponic garden with HyGrowBot v1 but now is the time to take the experiment to whole new level.
+
+So, we're dismantling the v1 prtotype and we'll be re-using all of its parts in the process of building the HyGrowBot v3 prototype, with exciting new plants and on a much larger scale this time. This will enable us to test the pre-production version of the system we'll be releasing this Fall.
+
+The HyGrowBot v2 prototype that we showed at Hempfest 2013 last month will play a key role in this new garden as it will be nurturing a mother plant :)
+
+As usual, we'll document the process with pictures and video tutorials of the setup, code updates as we add features, starting with monitoring and controlling CO2 levels and managing a water reservoir feeding two separate areas of the garden.
+
+Cheers,
+-The HyGrowBot Team
+
+
+  [1]: http://open.sen.se/sensemeters/tab/2081/</description><pubDate>Tue, 10 Sep 2013 00:12:45 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/blog-posts/hygrowbot-v1-being-dismantled-to-become-part-of-hygrowbot-v3</guid></item><item><title>HyGrowBot code and schematics posted on GitHub \o/</title><link>http://hygrobot.org:80/blog-posts/hygrowbot-code-and-schematics-posted-on-github-o</link><description>It's taking longer than expected, but last week, we posted the code, schematics and the software installation guide for building a HyGrowBot v1. Check out the [GitHub repository][1]
+
+We still have to complete the HyGrowBot v1 configuration guide, but at least, it's progress :)
+
+Enjoy!
+
+
+  [1]: https://github.com/nwazet/hygrowbot</description><pubDate>Sun, 01 Sep 2013 21:09:29 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/blog-posts/hygrowbot-code-and-schematics-posted-on-github-o</guid></item><item><title>More news next week...</title><link>http://hygrobot.org:80/blog/more-news-next-week</link><description>&lt;img class="illustration" src="/Media/HyGrowBot/Blog/schematics.png" alt="Schematics for HyGrowBot will be made available next week..." /&gt;
+
+This week, we're taking a short break, recovering from Hempfest and many months of work on HyGrowBot and Raspberry Pi goodies. Next week, we'll be back with project updates, starting with source code and schematics. Cheers!</description><pubDate>Wed, 21 Aug 2013 20:03:00 GMT</pubDate><guid isPermaLink="true">http://hygrobot.org:80/blog/more-news-next-week</guid></item></channel></rss>
